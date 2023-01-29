@@ -1,4 +1,6 @@
 ### Ola! Eu sou Flavio Aquino ✌️
+Apaixonado por tecnologia, inovação e desafios.
+
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fI%C3%A1vio-luiz-de-aquino-70402368)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https//:instagram.com/flavioaquino?igshi=YmMyMTA2M2Y=)
@@ -16,4 +18,3 @@
    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <div/><br/>
 
-Apaixonado por tecnologia, inovação e desafios.
